@@ -31,5 +31,8 @@ public class ValidacaoEmailSwing {
     JOptionPane.showMessageDialog(null,"Erro: "+e2.getMessage());
     }
     
+    /*JOptionPane.showMessageDialog = cria caixa de dialogo*/
+    /*showInputDialog = entrada de dados*/
+    /*null = campo obrigatório*/
 }
 }
